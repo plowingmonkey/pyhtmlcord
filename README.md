@@ -11,5 +11,5 @@ Python-based server application that generates static html pages from a client's
 ☐ Windows 3.1+<br>
 ☐ Android 4.0.0+<br>
 ☐ Linux
-# operating system support (SERVER)
+# Operating System Support (SERVER)
 ☐ Anything capable of running on python 3.6+
