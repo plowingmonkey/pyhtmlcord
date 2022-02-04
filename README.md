@@ -7,7 +7,7 @@ Python-based server application that generates static html pages from a client's
 ☐ Firefox All<br>
 ☐ Google Chrome All
 # Sperating System Support (CLIENT)
-☐ Chrome OS
+☐ Chrome OS<br>
 ☐ Windows 3.1+<br>
 ☐ Android 4.0.0+<br>
 ☐ Linux
